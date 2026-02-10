@@ -6,6 +6,8 @@ This scrip is used in Google Sheets to select a number (n) of blank or filled ro
 
 1.- You select first by the mouse a cell in a referencce row (which is filled).
 
+    ./empty-rows-selector-1b
+
 2.- Run this script by his name on the Goolge sheets toolbar (which needs to be installed on Google Sheets). 
 
 3- It will ask for how many rows to select? This is the number of rows above or below tehe reference row which will be selected. 
