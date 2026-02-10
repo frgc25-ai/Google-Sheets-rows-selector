@@ -35,10 +35,9 @@ How to install it:
 ## 🚀 How to Install
 
 1. **Open your Google Sheet** where you want to use the script.
-2. Go to the top menu and select **Extensions** > **Apps Script**.
-3. **Copy the code** from the `code.gs` file in this repository.
-4. Delete any code in the Apps Script editor and **paste** the new code.
-5. Click the **Save** icon (diskette) and name the project "Rows Selector".
-6. **Refresh** your Google Sheet. You should see a new menu item appear (e.g., "Custom Tools").
-  
-  
+2. Go to the top menu and select **Extensions** > **Apps Script**-
+3. (you need firs to have **Apps Script** installed in your Google Sheets)
+4. **Copy the code** from the `code.gs` file in this repository.
+5. Delete any code in the Apps Script editor and **paste** the new code.
+6. Click the **Save** icon (diskette) and name the project "Selection tools".
+7. **Refresh** your Google Sheet. You should see a new menu item appear (e.g., "Selection Tools").
