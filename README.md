@@ -1,2 +1,5 @@
 # Empty-rows-selector
-This scrip selects a number of rows above or below a mouse selected  cell but only the cells that coincide vetically with filled cells on the reference row.  It ask for: - the number of rows to be selected from the row with the mouse cliked cell.             - if the selected rows will be above or below the reference mouse clicked cell.
+This scrip is used in Google Sheets to select a number (n) of blank or filled rows above or below a certain filled row. You select first by the mouse a cell in a referencce row and then run this script which needs to be installed on Sheets toolbar. It will ask for the number of rows above (enter the number with a negative sign) or below (enter the number with a positive sign) which will be selected. It will select only the cells in the rows above or below the reference one that coicide with the last filled cell in the row of reference.
+
+  
+  
