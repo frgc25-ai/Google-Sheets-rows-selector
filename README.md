@@ -12,21 +12,21 @@ it works:
 
 1.- Select by mouse a "reference" cell.
 
-![Step 1 Selection](./empty-row-selector-1a)
+![Step 1 Selection](./selector-images/empty-row-selector-1a)
 
 2.- Run this script by his name (Empty-rows-selector-1) from the Goolge Sheets taskbar 
 
-![Step 2 Selection](./empty-row-selector-1-0.png)
+![Step 2 Selection](./selector-images/empty-row-selector-1-0.png)
 
 3- It will ask for how many rows to select? This is the number of rows above or below the reference
 row which will be selected. 
 
-![Step 3 Selection](./empty-row-selector-1b.png)
+![Step 3 Selection](./selector-images/empty-row-selector-1b.png)
 
 4.- After you enter the number of rows to be selected, press OK and then the code will ask you:
 Select rows ABOVE the current line?  or (Click "No" for BELOW)
 
-![Step 4 Selection](./empty-row-selector-1c.png)
+![Step 4 Selection](./selector-images/empty-row-selector-1c.png)
 
 It will select only the cells that coincide vertically with the filled cells in the row of the
 initially selected cell.
@@ -43,12 +43,12 @@ one step in the pop up window.
     above (enter a number with a negative sign) or below (enter a number with a positive sign)
     which will be selected. 
      
-![Step 5 Selection](./empty-row-selector-2a.png)
+![Step 5 Selection](./selector-images/empty-row-selector-2a.png)
 
 As with version 1, it will select only the cells that coincide vertically with the filled cells in
 the row the initially selected cell.
 
-![Step 6 Selection](./empty-row-selector-2b.png)
+![Step 6 Selection](./selector-images/empty-row-selector-2b.png)
 
 How to install it:
 
