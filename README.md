@@ -6,7 +6,7 @@ This scrip is used in Google Sheets to select a number (n) of blank or filled ro
 
 1.- You select first by the mouse a cell in a referencce row (which is filled).
 
-    ![1.- You select first by the mouse a cell](./empty-rows-selector-1b.png)
+![Step 1 Selection](./empty-row-selector-1b.png)
 
 2.- Run this script by his name on the Goolge sheets toolbar (which needs to be installed on Google Sheets). 
 
